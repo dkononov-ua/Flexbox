@@ -1,0 +1,12 @@
+
+
+.header-menu {
+	z-index: 999;
+	background-color: red;
+
+	@include text-shortener;
+}
+
+body {
+	background-color: red;
+}
