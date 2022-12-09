@@ -8,14 +8,12 @@
     padding-right: $gap;
     padding-left: $gap;
   }
-
   @include lg-md {
     flex: 0 0 calc(100% - #{$left-sidebar-width});
 
     padding-right: 0;
     padding-left: $gap;
   }
-
   @include md {
     order: 1;
   }
