@@ -1,0 +1,26 @@
+.footer {
+  margin-bottom: 30px;
+}
+.footer-top {
+  display: flex;
+  margin-right: -7.5px;
+  margin-left: -7.5px;
+}
+
+.footer-top__item {
+  padding: 0 7.5px;
+  color: #eeeeee;
+	
+}
+.widget {
+	margin: 0 0 15px;
+	padding: 15px;
+	color: #eeeeee;
+	border-radius: 7px;
+	background: rgba(0, 0, 0, 0.5);
+	
+}
+.footer-bottom {
+	text-align: center;
+	margin: 0 auto;
+}
